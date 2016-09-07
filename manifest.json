@@ -1,72 +1,12 @@
 {
     "name": "David Rego Template LDA",
     "description": "Um template que é um expetaculo",
+    "templateId": "57cff5792e8d61762e1220c8",
     "version": "1.0.0",
     "templatesImports": {
         "index": [
             "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights",
-            "productsHighlights",
-            "servicesHighlights",
-            "portfoliosHighlights",
-            "navigationGroupsHighlights"
-        ],
-        "about": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "product": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "service": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "portfolio": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "group": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "products": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights",
-            "productsHighlights",
-            "productsCategories",
-            "products"
-        ],
-        "services": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights",
-            "servicesHighlights",
-            "servicesCategories",
-            "services"
-        ],
-        "services-category": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "products-category": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
-        ],
-        "portfolios-category": [
-            "business",
-            "navigationGroups",
-            "portfoliosCategoriesHighlights"
+            "portfoliosHighlights"
         ]
     },
     "templateOptions": null
